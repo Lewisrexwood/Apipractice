@@ -5,7 +5,7 @@ service = "https://api.stats.govt.nz/odata/v1"
 endpoint = "data.json"
 entity = ""
 query_option = ""
-api_key = "9ebbb46a39014716a960a598960bfa9a"
+api_key = "xxxxxxxxxxxxxxxxx"
 proxies = {}
 
 ServiceEntities = odata.get_odata(service, endpoint, entity, query_option, api_key, proxies)
